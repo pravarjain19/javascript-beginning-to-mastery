@@ -6,7 +6,7 @@
 // value1 (valid)
 
 var value1 = 2;
-console.log(value1);
+console.log(8 ** 0.5);
 
 // you can use only undersore _ or dollar symbol 
 // first_name (valid)

@@ -1,4 +1,4 @@
-// trim() 
+// trim()  -- to remove extract spaces * string are imutable
 // toUpperCase()
 // toLowerCase()
 // slice()
@@ -13,8 +13,8 @@ let firstName = "harshit";
 // firstName = firstName.toLowerCase();
 // console.log(firstName);
 
-// start index 
+// start index  slice(start , end)
 // end index
 
-let newString = firstName.slice(1); // hars
+let newString = firstName.slice(1); // arshit
 console.log(newString);

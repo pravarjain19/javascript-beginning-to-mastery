@@ -1,4 +1,9 @@
-"use strict";
+"use strict"; 
+// use strict protect devlopere to follow strict rule of wrtiing code
+
+// in js we can define a variable without using var let just write name and use it
+    //  to protect from mistake use strict
+
 // intro to variables
 
 // variables can store some information

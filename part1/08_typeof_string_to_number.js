@@ -1,6 +1,6 @@
 // typeof operator 
 
-// data types (primitive data types)
+// data types (primitive data types) -7 pri - snbunbs
 // string "harhit"
 // number 2, 4, 5.6 
 // booleans 
