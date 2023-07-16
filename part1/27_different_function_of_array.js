@@ -1,5 +1,6 @@
 // array push pop 
-
+// push last pop remove last
+// push is mutalbe it will change the original array
 // array shift unshift 
 
 let fruits = ["apple", "mango", "grapes"];
@@ -12,12 +13,12 @@ console.log(fruits);
 // console.log(fruits);
 // console.log("popped fruits is", poppedFruit);
 
-// unshift 
+// unshift -- add at first
 // fruits.unshift("banana");
 // fruits.unshift("myfruit");
 // console.log(fruits);
 
-// shift 
+// shift -- remove from first 
 // let removedFruit = fruits.shift();
 // console.log(fruits);
 // console.log("removed fruits is ", removedFruit);

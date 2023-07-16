@@ -14,3 +14,6 @@
 // != vs !==
 
 // console.log(num1 !== num2);
+
+// ==  it will only check the value ingoring the data type
+// === it will check both value and datatype

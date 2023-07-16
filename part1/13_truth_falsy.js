@@ -8,3 +8,8 @@
 // null 
 // undefined
 // 0
+
+// truthy
+// 1 , -1
+// "aa"
+// 

@@ -18,6 +18,7 @@
 // // convert number to string. 
 // age = age + "";
 // console.log(typeof(age)); "22"
+// age = String(age);
 
 
 // // convert string to number. 
